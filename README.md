@@ -1,5 +1,5 @@
 # Instructions
-You are required to complete any 3 out of the 4 bugs provided in the GitHub repository linked below. Follow the steps below to get started, work on your solutions, and submit your completed work.
+Please complete 3 out of the 4 bugs provided in the GitHub repository. Submit your completed work by end of day Monday, May 5. Follow the steps below to get started.
 
 ## Step 1: Access the Repository
 ### Option A: Clone the Repository
@@ -30,8 +30,6 @@ git clone https://github.com/mrusho/junior-developer-test
 
  - Read the README or instructions for each problem to understand the requirements.
 
- - You may choose any 3 problems to solve.
-
  - Make sure your code is clean, well-documented, and functional.
 
 <br>
@@ -40,7 +38,7 @@ git clone https://github.com/mrusho/junior-developer-test
 You have two options to submit your completed problems:
 
 ### Option A: Submit a ZIP Archive
-1. Ensure only the 3 completed problems are included (you may delete the unused one).
+1. Ensure all completed problems are included (you may delete the unused one).
 
 2. Compress the folder (right-click > “Send to > Compressed (zipped) folder” or use any zip tool).
 
@@ -51,8 +49,6 @@ You have two options to submit your completed problems:
 ### Option B: Share Your Own GitHub Repository
 
 1. Create a new public repository on your GitHub account.
-
-2. Copy only the 3 completed problems into this new repository.
 
 3. Provide a brief explanation on how you solved each problem.
 
